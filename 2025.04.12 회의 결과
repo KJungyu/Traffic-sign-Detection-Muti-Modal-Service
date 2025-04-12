@@ -1,0 +1,36 @@
+2025.04.12 회의 결과 
+
+진행 할 일 
+
+1. 데이터 수집 및 클래스 정리 (내용만)
+
+- 데이터 선정 
+- 데이터 클래스 넘버 정리
+
+2. Yolo 베이스 라인 구성
+
+- 간단한 Yolo model 제작
+
+3. 파이프라인 제작 
+
+- ppt 사용
+- 초안 제작
+
+---------------------------------------------------------
+
+데이터 정리 및 수정 
+
+https://universe.roboflow.com/test-u58bl/japan-roadsign-second-2/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+
+https://universe.roboflow.com/test-u58bl/japan-roadsign-ver.3/browse
+
+일본 데이터 정리 (일단 이걸로 사용)
+
+위 4개는 멀리있는 객체 인식 사용 용도로 쓰면 좋을 듯.
+
+https://universe.roboflow.com/sign-tcbgl/esp32-i3moz/browse?queryText=class%3Afollow23&pageSize=50&startingIndex=0&browseQuery=true
+https://universe.roboflow.com/sign-tcbgl/esp32-i3moz/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+
+대만 데이터 (전처리 문제 발생 시 or 일본 데이터 셋 부족 시 사용 예정)
+
+-----------------------------------------------------------------------------------------------------------------------------------
