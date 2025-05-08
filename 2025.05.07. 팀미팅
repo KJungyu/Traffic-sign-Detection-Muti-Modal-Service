@@ -1,6 +1,61 @@
-# 2025. 05. 07. 팀 미팅
+5. 7. 팀미팅
 
-1. 데이터셋 class 분류
-   total class: 8 (0 ~ 7)
+### 데이터셋 class 분류
 
-   -
+총 8개 class (0 ~ 7)
+
+- 자전거 이외의 경차량 통행금지
+- 이륜자동차 및 일반원동기장치자전거 통행금지
+- 자동차 전용 도로
+- 경적 사용 경적 구간
+- 차량 횡단 금지
+- 2인 승차 이륜자동차 통행금지
+- 일시정지
+- 끝
+
+---
+
+### 데이터 증강
+
+- brightness adjustment
+- contrast adjustment
+- cropping
+- grayscale
+
+---
+
+### 실험
+
+전처리한 데이터셋을 이용해 YOLOv8의 기본적인 성능 실험 
+
+![image.png](attachment:53d530df-3ad3-4469-8449-8a4bcb1611db:image.png)
+
+![image.png](attachment:2b87bcf1-fc59-43b3-ad9f-c6b99189ec96:image.png)
+
+![image.png](attachment:605e0b7b-5300-4e1c-9a7f-2237fdb43351:image.png)
+
+![image.png](attachment:983ef121-e5ed-47da-9c23-7c203210ebea:image.png)
+
+![image.png](attachment:bf4dbb8e-ed24-4f90-8a04-9aaceb2eeb59:image.png)
+
+손실은 안정적으로 감소하고, precision, recall, mAP 모두 상승하는 것을 볼 수 있음.
+
+과적합 없이 훈련 및 검증이 잘 진행됨을 확인.
+
+---
+
+### YOLO + React
+
+[사용자 업로드]
+↓
+React
+↓
+Flask API
+↓
+YOLOv8
+↓
+VLM
+↓
+React (최종 출력)
+
+사용자가 React 웹에서 이미지 업로드하면 Flask 서버를 통해 Yolov8이 객체 탐지를 수행하고 그 결과를 VLM이 설명 형식으로 변환, 최종 결과는 React 화면에 표시
