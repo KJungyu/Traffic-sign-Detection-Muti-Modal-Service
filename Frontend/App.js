@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
 import CameraRecorder from './components/CameraRecorder';
-import VideoDisplay from './components/VideoDisplay';
 import ChatBot from './components/ChatBot';
 
 function App() {
