@@ -1,0 +1,14 @@
+train: /home/dsc/work/DSC_1_team/ultralytics/train.txt
+val: /home/dsc/work/DSC_1_team/ultralytics/val.txt
+test: ../test/images
+nc: 8
+names:
+- Handcar
+- Bike
+- Car
+- Horn
+- No_Crossing
+- Two_seater
+- Stop
+- Section_End
+
