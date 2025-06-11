@@ -1,0 +1,2602 @@
+[
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/323-05_05_jpg.rf.1349e1e34fa1cac32b76732b6991d973.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/516362cc-b7ae-4b2b-998b-a752832661cf-x2_jpg.rf.5fd275ed2be46416b22ab8fc9cc86876.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/CBLOGIMG4129_1_1_jpg.rf.8ea7b8d9783be09fb9683c98b8264877.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/IMG_4703-1200x900_jpg.rf.3bc79b2d9501094518c9135674e5bcd0.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/190518keisyaryou_165871_M_690_jpg.rf.f571c6506161ff1a5f2962d861e8f285.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/516362cc-b7ae-4b2b-998b-a752832661cf-x2_02_jpg.rf.426a4b996cb50b0e91ad003adffcd6ce.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/CBLOGIMG4129_1_1_04_jpg.rf.a039e9106e2902be9401361dc8138a55.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/EmA1hN-VoAAfQry_01_jpg.rf.6a2620832f7ea62a5f5db428a07be7a3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/JP000-00_01_01_jpg.rf.d98cb8092ace8795762c36c056a49273.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/JP308-00_01_01_jpg.rf.1a2f58360de451df8aaa5dad8c6b1424.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/JP000-00_01_jpg.rf.df27ffefdc4df448f55b9d267f981f1b.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/IMG_4703-1200x900_01_jpg.rf.c93748677024ecafedb3eb2ee341a556.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/Japan_road_sign_308-svg_png.rf.bd1ef0b9aa5066614332e1a9991210de.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/img_9d8b60387df0689f52e881c95edf2c3e432723_jpg.rf.47861e47b3fd74c67ed6e4e329039d66.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/BLOGIMG4129_1_02_jpg.rf.cb62c85bf6e305e5cda975a97303a727.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/EmA1hN-VoAAfQry_jpg.rf.739cd415f02368d2ad7253254a0ec88a.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/BLOGIMG4129_1_jpg.rf.5843ce630a0216a41c7290fc0462d5c7.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/1eeec9bc_01_jpg.rf.31f0fdf86ee13279e0f289f09f0a66bc.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/323-05_05_03_jpg.rf.61b40455d9c0a1224a1c67e59b0f330a.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/0.handcar/images/1eeec9bc_jpg.rf.9011d5f60fa5268331a163f56010974d.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a the prohibition of light vehicles other than bicycles sign. When you see it, you must come to a complete stop, It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/516362cc-b7ae-4b2b-998b-a752832661cf-x2_jpg.rf.5fd275ed2be46416b22ab8fc9cc86876.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/D5EMTw6UYAAPYJY_03_jpg.rf.6c0469de8dcfcc382016793194b6321c.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/IMG_1886_jpg.rf.977a761c0292d0d4833b8e31a86af297.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/313-00_15_01_jpg.rf.b42795ff506fc39f391c13dbc9b29eca.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/GFfkG9LbcAAVV-r_03_jpg.rf.9c4a8640025d55e4b5d0c8d1feee0c52.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/600_06_13_jpg.rf.26f6e29225042b9627673c64baec3f4d.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/D5EMTw6UYAAPYJY_jpg.rf.b86c5189f34661572242de91b24ff07c.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/Ebmm32EVAA4cP52_jpg.rf.3aa4bab342cb76331c13d6dd685efdee.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/img_9d8b60387df0689f52e881c95edf2c3e432723_jpg.rf.47861e47b3fd74c67ed6e4e329039d66.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/-_01_jpg.rf.a9f7a6e22a20449df5cec0c3c273aab8.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/IMG_1886_01_jpg.rf.8ba3dad6f3d79d9865e5e330aa1efcd9.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/DSC_0042-860x573_04_jpg.rf.7de4a3ed0db01dd9a4f2b9bf4995ef9e.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/313-00_15_jpg.rf.07cc289f8de1185d7875d1875c71ff76.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/Ebmm32EVAA4cP52_01_jpg.rf.04ac560dd6a9314c3d0d14fbf5ee58e0.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/600_06_13_01_jpg.rf.008c99f5816363c84d7fd5450b43dd9c.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/D5EMTw6UYAAPYJY_02_jpg.rf.bad141b452aa69e6e97796d5c6e134c6.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/516362cc-b7ae-4b2b-998b-a752832661cf-x2_01_jpg.rf.7ba58b3f7a1be3e6d295fb5ddba8c184.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/hshg12cq0470_jpg.rf.8bc38c2e19d08764ef33eb3f57b5a40b.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/GFfkG9LbcAAVV-r_jpg.rf.6ea1e9e58312d15e71f69f3f6084c9d3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/1.bike/images/-_jpg.rf.c334b5e00c0456e1ea709deb99032845.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles and General Motor Vehicles Banned on Bicycles sign It is mainly installed with a '125 cc or less' sign at the entrance of highways or motorways. Motorcycles with more than 125 cc are legally allowed to pass through highways and motorways."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/images_02_jpg.rf.db15096de0d0c89bf4c8d92be11c17ca.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/3f0247ef1b29e644b03b6bf4eb311a24_t_02_jpg.rf.b78c548ade2e7c41159734fa44666f55.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/images_jpg.rf.b064f4b47767c5df649d158c9ebece01.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/JP511-00_08_03_jpg.rf.bac97ebcc91d75da752a58dba175ed3a.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/JP000-00_04_02_jpg.rf.9bc06defba880a27312e5350a0715ece.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/-21-_png.rf.6ca89a1889f925321093271774ba03b9.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/-18-_png.rf.dc7e5c3fbfce7f88e79cf04c8c2adbc8.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/JP000-00_04_jpg.rf.cb421bae2c19e59f0f1a408057ece107.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/FR1VTTIaAAAtyPK_02_jpg.rf.93847da857e5cdc98f3fd7263f6698b6.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/-18-_png_02_jpg.rf.318b70721693247036e1b147163b264c.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/JP319-00_01_04_jpg.rf.f0e98ed06d4c90042ddcaaa77af46fc3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/img_9d8b60387df0689f52e881c95edf2c3e432723_jpg.rf.47861e47b3fd74c67ed6e4e329039d66.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/FR1VTTIaAAAtyPK_jpg.rf.feae352d79e731527fd5eea2eaa5dc72.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/2392_jpg.rf.3bd660a40dda1c5e95e4e0e6967dc4ed.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/f99984b07dc47c9de46587a1833e680fe7fc9aaa_02_jpg.rf.147870b674f0df142110dfa37ba51c4b.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/-22-_png.rf.2d41c52dbd5ce8957fb81b3cb3453e53.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/JP319-00_01_jpg.rf.e56e50cb23a44404c8391ebcc67cbcf0.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/3f0247ef1b29e644b03b6bf4eb311a24_t_jpg.rf.e7ad85855a575495c674792bd3a42f47.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/Japan_road_sign_325-svg_png.rf.a1833567f30ba05859bf5649e8574c6e.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/f99984b07dc47c9de46587a1833e680fe7fc9aaa_jpg.rf.28c88a606c11fb896934c2401b85e9fb.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/Japan_road_sign_325-svg_png_01_jpg.rf.d0fef0c259b39bf180054892032cdac6.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/JP319-00_01_05_jpg.rf.e4227f7f3c69a47bee5ca10151e22e6a.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/-23-_png.rf.4ac73db9153717678fef537088ebb29b.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/JP511-00_08_jpg.rf.e4bdb80a2332f49556c358b8b70d1052.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/-19-_png.rf.c5b1f7e330ff2245363b6ed1a1940027.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/-23-_png_01_jpg.rf.8a7e3c8ffa1f8027cd1b6f84a58f7040.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/2.car/images/-22-_png_02_jpg.rf.15cc4ae3f3176ffc945d3eeec476c469.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a motorway. Motorcycles are accessible, contrary to the saying that it is a motorway"
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/-17-_png.rf.c51a3fca276dd6608b336c7c3a6f2f8d.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/EZDkQY_UcAANN6c_jpg.rf.bbd802d0e161dea00a233d59c7b29a45.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/EbrFZHyUcAABRdo_jpg.rf.cca5d0da8247d408c5bf730323bd812e.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/horn_png.rf.c2a0c700d628c378652dbab2603cd1d8.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/DF-1qYTVYAATU8z_jpg.rf.bc6747c497e2382a805e93b924d392ca.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/h1ks069a175_jpg.rf.c5ac492b75cb50354514e1ba3ae4524f.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/Dx2Ko7-UUAAuyNM_jpg.rf.7049ab9ccb5db5b5e1776f400b27d4fc.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/image_jpeg.rf.8fc806e642a541a69431c00ca4009b58.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/1db83abc_jpg.rf.0503d9c1f313828e784d2d72d1def638.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/328-2l_03_jpg.rf.49aa6c3e85dd2e0af1e5a78cb85f9c18.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/1000_F_397005920_ylSRDpA6PcOsRoa6zIvaqJvSbiKkDQW1_jpg.rf.7ec4c5ae7dc6173a56bad579106fd633.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/328-2l_02_jpg.rf.006ef49de7407ee27ea39c287dcfb838.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/E2ttMnfUYAIEqlv_jpg.rf.c092714c30dc49705bf75173820d626b.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/h1ks069a238_jpg.rf.1eb01ac6297ff0bbd95bd984e754f5c0.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/eb7d016c75_jpg.rf.925ac6ed7324b2746904462faa4c556c.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/328-2l_04_jpg.rf.9ed96540acbd4164d6c042c746f08eb3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/IMG_20190906_095446_jpg.rf.ed487ad949f7603120802f089c4c31ea.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/FI6GdP3UUAUQ58t_jpg.rf.3dc983f76135ec8573727167022a38c2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/FI6Gt9pUUAI0L-A_jpg.rf.442cf7b09d9f19807f432ffd0f0dedb1.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/DF-1plJV0AI-7bU_jpg.rf.26da8c862ae3cf52bb20733faff99dd6.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/3.horn/images/h1ks069a232_jpg.rf.dff0896f4618879ba38d1dd94f55f43a.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a horn sign A cover that is missing in Korea. If you have this cover, you should press the horn once. A car facing a curved road is used at a point where traffic is blocked by blind spots and is not visible."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/501-0b_02_01_jpg.rf.5c0368cf1d4d83501dc96047f2d2ab0d.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_07_jpg.rf.b068ef462aaec86dd38ddc75a86d65a2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_04_01_jpg.rf.6746467a1010e83cb1442f18733ad332.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_11_01_jpg.rf.58c23d21dbc9edc8505d8f3f28e610ca.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_01_01_jpg.rf.699fb0a25e87129744c9ba9bb6f3de34.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_04_02_jpg.rf.ca68a76c3ddb6f62432c9f80a302e579.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_06_02_jpg.rf.c9634a48cf17d3f73cdf9f091f3f3767.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_10_01_jpg.rf.cbdd51a423becd627df7477ef34f03b4.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_03_jpg.rf.7b8370f9123a07e3d23c77fc63ee2d07.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_09_jpg.rf.202e2b43e591ffee628b12f0c66e0a80.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_09_03_jpg.rf.334a4b116703cd5605311b6674119d40.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_06_jpg.rf.aff850b903eac84d35ae5db7bc5420f7.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_07_02_jpg.rf.f0b52f3a8f002b13989c348ff5d5a51e.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_05_02_jpg.rf.374b128c64a544266bc5bef81c207516.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_01_jpg.rf.e610bd95ce38d42d23187b954e84a87b.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/22ymn48083a_jpg.rf.988ac4242099772c79540a8046c5d9f1.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_11_jpg.rf.f4242577a6b6c493cddb915afb651383.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_03_01_jpg.rf.63f8b3eb5da86d7ac8fd3eee9a359b86.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_08_jpg.rf.9a6cef7e83de2f13c7aaa2e21c0d8986.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_08_01_jpg.rf.a6644a821cef2bb16a8f2d13ea9a0733.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_04_jpg.rf.0cb00fed50b80fe40375a65f5f6df6a3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_09_01_jpg.rf.7d7d87dbcb0460fd10a266f03c7bd74f.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_02_01_jpg.rf.38458bc45459a46829c7cc96c6b68626.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_02_jpg.rf.2ca500df38825c0f2bd3f00aa5b5aede.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_10_jpg.rf.e63cd9c655e88ae4608ed05a828aec17.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_07_01_jpg.rf.13b1f16272ceb1ec6463cb1d903dcf02.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/4.no_crossing/images/312-00_05_jpg.rf.6391f7e0c83c9bede2120213dbb83e2c.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a No vehicle crossing sign In Japan, even if the center line is drawn, it is basically possible to turn right or go straight and cross the road. However, install these signs when it is necessary to prohibit them."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/D5KGK2eUcAAvCyf_jpg.rf.0fde0b93dc5f2cbb6ea928fa0872d9f4.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/D5KGK2eUcAAvCyf_01_jpg.rf.7f61d1cde9f746f2760d116632179492.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/1698712288651-O4VZfHrgVp_jpg.rf.bd1aa1e010d5488f9c047937d088ca51.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/DSC_0042-860x573_jpg.rf.66df9d5a825a964834b740a0e4e36f60.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/f99984b07dc47c9de46587a1833e680fe7fc9aaa_01_jpg.rf.742d155583eb3758445bb86ba8a9790f.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/-21-_png.rf.6ca89a1889f925321093271774ba03b9.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/-18-_png.rf.dc7e5c3fbfce7f88e79cf04c8c2adbc8.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/D5KGK2eUcAAvCyf_02_jpg.rf.de4a9882b5484781dd87dad37fda4ee9.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/EgEO1zsVoAAeCm4_jpg.rf.2079a2bb230908452765bb8480bc5f3d.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/hisk13843448_jpg.rf.6d71549d9cc5a49ed2d82880d9ef2832.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/-22-_png.rf.2d41c52dbd5ce8957fb81b3cb3453e53.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/-18-_png_01_jpg.rf.232d520448f0525d8dec283311a4377e.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/1698712288651-O4VZfHrgVp_01_jpg.rf.55245b551a21bf8bb8c04e801c7aee40.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/28024803361_12b8ef27ce_o_jpg.rf.b1905adaeb41e9377bc1f6aa73fcaa9e.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/f99984b07dc47c9de46587a1833e680fe7fc9aaa_jpg.rf.28c88a606c11fb896934c2401b85e9fb.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/EgEO1zsVoAAeCm4_03_jpg.rf.417232d3cdd4a7ac069b46144dc8a9af.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/-23-_png.rf.4ac73db9153717678fef537088ebb29b.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/DSC_0042-860x573_03_jpg.rf.1f618e3dd9f5d263facc1b200a367ef9.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/-19-_png.rf.c5b1f7e330ff2245363b6ed1a1940027.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/-24-_png.rf.b6d03a162d6dcce4149d6351c328b60e.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/-_02_jpg.rf.2a1156a7d73d31c46a99a89b738b0e87.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/-_jpg.rf.c334b5e00c0456e1ea709deb99032845.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/-20-_png.rf.31ddbe6e66dd6881493608862eaeae82.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/-23-_png_03_jpg.rf.54dc2190464eec3beda28abb01b797f1.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/hisk13843516_jpg.rf.598a24a53d25844ce0789840298e37c5.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/28024803361_12b8ef27ce_o_02_jpg.rf.902ddc7b974ebed76475101af67eceea.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/5.two_seater/images/hisk13843516_03_jpg.rf.26445378499a2419a5fb8e2af94e3e52.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Two-Wheeled Motor Vehicles with Two-Wheeled Riders Bannedsign Signs that can only be seen in Tokyo. On highways in Tokyo, such as the Seoul Metropolitan Expressway, two-person rides are prohibited. On the rest of the regional highways, it is legal whether one person is in a two-wheeled vehicle or two people. However, in order to get a two-person ride, the driver's motorcycle license must pass one year after issuance."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/stop0068_png.rf.e685f2842c341604318182695f2bd671.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/stop0030_png.rf.3ff5551a64ea04edd969bdfcf0e41853.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0009stop_png.rf.64139b6244a48e3125688f49901ce73b.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0039stop_png.rf.54826bba40fbd0c575d8e0e1c353ac8e.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/stop0063_png.rf.047593b3e7f6f69c046b24045d304d7f.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/stop0045_png.rf.eb7e727511844d691fc687b0dff03300.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0096stop_png.rf.e7b64f3e31b1650da33984f06356efb7.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/stop0074_png.rf.cfe4a575e7f250ad729139fd1d858336.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0035stop_png.rf.84f774a99b4f65a5a25d3c626460a67c.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0064stop_png.rf.44f843a13a5cc67dcffa53cbc66c9358.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/stop0036_png.rf.c7e7d4bf30da1db872bce89eb63523cf.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/stop0017_png.rf.76f1e62f8002d4717ac85a14edc3617d.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/stop0041_png.rf.22475e0251d07658d13b21cb28d81746.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0079stop_png.rf.6ebee8a51342a4896436e74b996172b3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/stop0016_png.rf.755bd9eec99fe7d2ddff7f5ea8e7844e.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/stop0018_png.rf.21e5475420203997b7652898c722d5d3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0075stop_png.rf.9f499c8c5a8e548fae7313b157db5afb.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0048stop_png.rf.7ecadcea1a09a6d40aa7520ce55d8a02.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0016stop_png.rf.704e88a4c11988053f8a91a00fffd75d.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0041stop_png.rf.96194101dd5f1bcbc98cfa50effe0763.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0052stop_png.rf.6e06de4d1a72197985251671054ddb2e.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/stop0077_png.rf.1a25b0db1d616ccc8e4cab08fd92b60e.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/stop0071_png.rf.6130d992bef7eab8c71ff85601c3adad.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0092stop_png.rf.0ce00185f7f916c6cc99e9b85fbfadea.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0027stop_png.rf.587966227a42da6fb52fdc3170662b51.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0069stop_png.rf.95e097209f8d6406350b953e2e404ecf.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/stop0020_png.rf.56a55835bb7f2e2f020d5282acbea61a.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0066stop_png.rf.f6ba24cea052c24739e494f2aff2e195.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0044stop_png.rf.d20ebe0fc72284241eb70eb5f6ac7b92.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0049stop_png.rf.6339e4fa10bcd612b1412e7956dd0845.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0018stop_png.rf.a07b63d2a6065633fd595157645d04e2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/6.stop/images/0036stop_png.rf.0372e6878e8b62aebd795d86cc6de16c.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a temporary pause sign If you see this sign, you must pause and leave unconditionally. Violations are punished in the same level as signal violations."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/GFfkG9LbcAAVV-r_jpg.rf.c5ad85560e8ddbf1e98bdac6ab72b04f.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/h1ks069a232_jpg.rf.19d45c19704fd7d64a232df463704918.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/323-04_04_jpeg.rf.b2d9a5f26a508c8ad99931fdb33b402d.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/313-00_11_jpg.rf.652c0070e15e0993cd83cdf14da17069.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/326-0B_01_jpg.rf.7f91a846d094513b656898cb31fe1461.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/403-00_03_jpg.rf.802fecaa0c236b8811d216375c781f89.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/JP507-C0_04_jpg.rf.873db36c6baeb0aa5f9afe9e22ee1af6.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/JP507-C0_05_jpg.rf.fd07d2e860e1a99f328b2d5df3fe6a6a.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/329-0A_02_jpg.rf.a221935d988c395bcee77aa1973f860e.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/314-00_06_jpg.rf.40e2b1795c692f29760186f7d8aa8a8d.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/509-00_02_jpg.rf.3b52b643633a138d51f9f9ca726cd5fe.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/JP507-C0_07_jpg.rf.81f9cf745855955b1a215abe6712dd22.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/JP507-C0_03_jpg.rf.147ed51f9cf17e8157a0da7fc939ebae.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/507-C0_02_jpg.rf.474e5c026a6f18935b94ee74895fb1c3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/501-0b_02_jpg.rf.cd993b82393419c4d6ccb40af7a9cc2d.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/313-00_05_jpg.rf.9db88c97476b899e6f2c534ae53a6c39.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/312-00_06_jpg.rf.dbf39b714b40a6d4cc85dd0967f3f63f.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/EWLUDPnU4AAB7jo-1-_jpg.rf.1f2d29dda3b301911a7b1fb964a2297f.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/314-00_03_jpg.rf.33afc7e575b1155181ee3a6821555c59.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/403-00_04_jpg.rf.cfffb623c432583da5d89accd50fcf1e.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/312-00_09_jpg.rf.12e8e7d3a5e8dddcd6d5ea4a8f27f59a.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/314-00_13_jpg.rf.8010eb14520867ad4bd3a113a39eba8d.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/328-2l_02_jpg.rf.27f06e9594b7a063b223cd652584315c.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/323-04_03_jpg.rf.a983a620b93959ca37916d256fffecf8.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/323-03_05_jpeg.rf.d8e136f0d664e9076c97446819714e7c.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  },
+  {
+    "image": "/workspace/LLAVA/dataset/7.section_end/images/JP507-C0_06_jpg.rf.6e97a84213e03b47d4f7b94d8a86ee67.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nWhat does this sign mean, and how should I act?"
+      },
+      {
+        "from": "gpt",
+        "value": "This is a Ending regulations sign It attaches small on the regulatory signs and indicates that the regulations end at that point."
+      }
+    ]
+  }
+]
