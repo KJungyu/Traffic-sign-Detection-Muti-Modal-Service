@@ -30,7 +30,7 @@ const YoloUpload = () => {
 
       {resultUrl && (
         <div style={{ marginTop: 20 }}>
-          <h4>📸 분석 결과</h4>
+          <h4>분석 결과</h4>
           <img src={resultUrl} alt="YOLO 분석 결과" width="100%" />
         </div>
       )}
